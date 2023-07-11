@@ -1,0 +1,25 @@
+.navbar{
+    height: 100px;
+}
+
+.card-body{
+    min-width: 40vw;
+    max-width: 80vw;
+    height: 40vh;
+}
+
+.nav-item{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.navbar button{
+    margin-right: 100px;
+    width: 200px;
+}
+
+.navbar-brand {
+    
+    margin-left: 40px;
+    margin-right: 200px !important;
+}
